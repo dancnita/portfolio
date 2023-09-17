@@ -44,7 +44,7 @@ const projects = [
   },
   {
     title: 'Local weather web app',
-    liveLink: 'link',
+    liveLink: '',
     githubLink: 'https://github.com/dancnita/loc-weather-app-react',
     src: './weatherAppScrn.png',
   },
