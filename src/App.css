@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  --background: #f5f6fa;
+  --grey1: #2f3640;
+  --grey2: #353b48;
+  --grey3: #718093;
+  color: var(--grey1);
+  font-size: large;
+}
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+a,
+button {
+  cursor: pointer;
+  color: var(--grey1);
+  text-decoration: none;
+}
+
+.icon {
+  font-size: 2.8rem;
+  padding: 0.5rem;
+  color: var(--grey1);
+  /* cursor: pointer; */
+}
+
+a:hover,
+.icon:hover {
+  color: var(--grey3);
+}
+
+.display-none {
+  display: none;
+}

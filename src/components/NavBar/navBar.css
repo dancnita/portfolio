@@ -1,0 +1,12 @@
+.nav-ul,
+.nav-ul-contact {
+  /* width: 50vw; */
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  font-weight: bold;
+  font-size: larger;
+  padding: 0;
+}

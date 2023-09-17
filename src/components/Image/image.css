@@ -1,0 +1,10 @@
+.project-img {
+  /* width: min-content; */
+  /* width: 35rem; */
+  width: 100%;
+  /* height: 22rem; */
+
+  border-radius: 2rem;
+  object-fit: scale-down;
+  /* cursor: pointer; */
+}

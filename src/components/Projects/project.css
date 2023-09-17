@@ -1,0 +1,21 @@
+.projects {
+  margin-top: 15vh;
+}
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  gap: 2rem;
+}
+.project-container {
+  width: 25vw;
+  min-width: 20rem;
+  border: 0.1rem solid gray;
+  border-radius: 2rem;
+  padding: 1rem 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
